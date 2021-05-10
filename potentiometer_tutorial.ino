@@ -1,7 +1,7 @@
 int pinRead=A1;
 float V0;
 int dtime=700;
-String title="Potentiometer Voltage: ";
+string title="Potentiometer Voltage: ";
 
 void setup() {
   // put your setup code here, to run once:
