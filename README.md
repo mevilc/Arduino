@@ -6,3 +6,4 @@
 
 **Serial Print**: String concatenation of different data types. Baud Rates.
 
+**Potentiometer**: Potentiometer voltage regulation. A simple project with potentiometer analogRead and RBY LED digitalWrite.
