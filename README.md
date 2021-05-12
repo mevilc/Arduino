@@ -1,1 +1,3 @@
-A collection of all my Arduino training and projects.
+**Introduction**: Variables, pinMode's, and digital signals
+**LED Binary Counter**: A bit counter
+
