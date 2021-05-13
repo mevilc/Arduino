@@ -8,4 +8,4 @@
 
 5) **Potentiometer**: Potentiometer voltage regulation. If statements. A simple project with potentiometer analogRead and RBY LED digitalWrite.
 
-6) **Dimmable LED**: Controlling LED brightness by adjusting potentiometer.
+6) **Dimmable LED**: Controlling LED brightness by adjusting potentiometer. Converting potentiometer's 0 to 1023 bytes to an analog signal's 0 to 255 bytes.
