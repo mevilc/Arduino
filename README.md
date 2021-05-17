@@ -4,7 +4,7 @@
 
 3) **Analog Read and Write**: using the analogWrite and analogRead functions to measure and send voltages. PMW (~) and ANALOG IN pins.
 
-4) **Serial Print**: String concatenation of different data types. Better if data types are initially defined instead of "..." in print command. Baud Rates.
+4) **Serial Print**: String concatenation (data types are initially defined instead of "..." in print command). Baud Rates.
 
 5) **Potentiometer**: Potentiometer voltage regulation. If statements. A simple project with potentiometer analogRead and RBY LED digitalWrite.
 
