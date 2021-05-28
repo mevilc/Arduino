@@ -11,3 +11,5 @@
 6) **Dimmable LED**: Controlling LED brightness by adjusting potentiometer. Converting potentiometer's 0 to 1023 bytes to an analog signal's 0 to 255 bytes.
 
 7) **For / While Loop**: Using for loop to blink LED a certain number of times. Using a while loop to keep LED on above a analogRead condition.
+
+8) **Serial Read**: Reading from serial monitor with parseInt() and readString(). User chooses a LED and tells number of times to blink.
